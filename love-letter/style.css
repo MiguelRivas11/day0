@@ -42,7 +42,7 @@ button {
 .app-shell {
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   min-height: 100svh;
   overflow: hidden;
   background:
@@ -572,9 +572,9 @@ button {
     left: 50%;
     top: 52%;
     inset: auto;
-    width: min(96vw, 48rem);
+    width: min(98vw, 50rem);
     height: auto;
-    min-height: min(94vh, 62rem);
+    min-height: min(96dvh, 64rem);
     transform: translate(-50%, -50%) rotate(-0.8deg) scale(1);
     transform-origin: center center;
     z-index: 12;
