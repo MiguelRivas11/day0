@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Love Letter icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffdf5" />
+      <stop offset="100%" stop-color="#f4ebd5" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="url(#bg)" />
+  <rect x="30" y="52" width="132" height="88" rx="18" fill="#f5e6c8" opacity="0.95" />
+  <path d="M42 64h108l-54 38z" fill="url(#paper)" />
+  <path d="M42 128h108l-54-36z" fill="url(#paper)" opacity="0.75" />
+  <circle cx="96" cy="98" r="22" fill="#8b0000" />
+  <path d="M96 111c-8-6-16-12-16-20a9 9 0 0 1 16-6 9 9 0 0 1 16 6c0 8-8 14-16 20z" fill="#fff6f0" />
+</svg>
